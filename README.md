@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atlamors
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in building applications that help people and businesses
 - 🌱 I’m currently learning NextJS
 
