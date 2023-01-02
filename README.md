@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atlamors
 - 👀 I’m interested in building applications that help people and businesses
-- 🌱 I’m currently learning Node, and Rust
+- 🌱 I’m currently learning NextJS
 
 
 <!---
