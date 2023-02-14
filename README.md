@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrew
-- 👀 I’m interested in building applications that help people and businesses
-- 🌱 I’m currently learning NextJS
+🧙🏽‍♂️ Hello, I’m Andrew
+😍 I love building applications and front ends that help solve problems and tell stories.
+🌱 I am currently learning Jest and TypeScript
 
 
 <!---
