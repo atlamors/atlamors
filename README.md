@@ -1,6 +1,6 @@
  - 🧙🏽‍♂️ Hello, I’m Andrew
- - 😍 I love building applications and front-ends that help solve problems.
- - 🤦🏻‍♂️ I am finally learning TypeScript
+ - 😍 I love building applications and front-ends that help make businesses run smoother and peoples lives easier.
+ - 📘 JS/TypeScript Full-stack, React Front-end; And a little bit of PHP, Liquid, and others.
 
 
 <!---
