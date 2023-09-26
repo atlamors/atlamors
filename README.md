@@ -1,6 +1,7 @@
  - 🧙🏽‍♂️ Hello, I’m Andrew
- - 😍 I love building applications and front-ends that help make businesses run smoother and peoples lives easier.
- - 📘 JS/TypeScript Full-stack, React Front-end; And a little bit of PHP, Liquid, and others.
+ - 👾 Exploring Game Development and Production with Unity and C#.
+   - Also using Wwise, Blender, Ableton Live, and Photoshop.
+ - 📘 Web App Stack: JS/TS, Node, React, PHP, AWS, Mongo
 
 
 <!---
