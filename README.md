@@ -1,7 +1,7 @@
  - 🧙🏽‍♂️ Hello, I’m Andrew
  - 👾 Exploring Game Development and Production with Unity and C#.
    - Also using Wwise, Blender, Ableton Live, and Photoshop.
- - 📘 Web App Stack: JS/TS, Node, React, PHP, AWS, Mongo
+ - 📘 Web App Stack: JS/TS, Node, React, PHP, AWS, Mongo, and much more...
 
 
 <!---
