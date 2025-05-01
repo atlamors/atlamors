@@ -1,10 +1,10 @@
- - 🧙🏽‍♂️ Hello, I’m Andrew
- - 👾 Exploring Game Development and Production with Unity and C#.
-   - Also using Wwise, Blender, Ableton Live, and Photoshop.
- - 📘 Web App Stack: TS, Node, React, PHP, AWS, Mongo, and much more...
+👋🏼 **Hi, I'm Andrew**
 
+🚀 **CTO & Product Lead**  
+I build scalable products and systems—focusing on distributed web infrastructure, architecture, and pragmatic product strategies.
 
-<!---
-atlamors/atlamors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Current Stack**  
+TypeScript, Node.js, Next.js, React, Prisma, MongoDB, PostgreSQL, AWS, Azure, WebAssembly, N-API, Kafka.
+
+🌐 **Architecture Focus**  
+Advanced distributed systems, native bindings with Rust & C++, high-performance messaging, and event-driven architectures.
