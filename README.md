@@ -1,5 +1,3 @@
-👋🏼 **Hi, I'm Andrew**
-
 🚀 **CTO & Product Lead**  
 
 I build scalable products and systems—focusing on distributed web infrastructure, architecture, and pragmatic product strategies.
