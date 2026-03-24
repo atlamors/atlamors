@@ -1,7 +1,7 @@
 ## Hi, my name is Andrew.
 
 [![O° OpenNous](https://img.shields.io/badge/O°-OpenNous-white?style=for-the-badge&color=0057B7&labelColor=0a0a0a)](https://github.com/orthogonalhq/nous-core)
-[![O° Agent Package Manager](https://img.shields.io/badge/O°-Agent_Package_Manager-white?style=for-the-badge&color=0a0a0a&labelColor=0a0a0a)](https://github.com/orthogonalhq/apm)
+[![O° Agent Package Manager](https://img.shields.io/badge/O°-Agent_Package_Manager-white?style=for-the-badge&color=1B1B1B&labelColor=0a0a0a)](https://github.com/orthogonalhq/apm)
 [![O° Orthogonal](https://img.shields.io/badge/O°-Orthogonal-white?style=for-the-badge&color=fa5d2b&labelColor=0a0a0a)](https://www.orthg.nl/)
 
 I'm exploring the concept of self-awareness in locally stationed Claw-style agents using a multi-layer agent orchestration kernel. My hope is that by using novel local short-term and long-term memory architectures, we can improve current context-engineering harnesses to gain consistent self-reflection, self-correction, and self-improvement over indefinite periods of time.
