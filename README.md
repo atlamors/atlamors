@@ -15,7 +15,7 @@ I'm building this with a multi-tier agent swarm. A project management agent to m
 ---
 ### Get Involved
 
-[![OpenNous](https://img.shields.io/github/stars/orthogonalhq/nous-core?style=for-the-badge&color=ffee8c&labelColor=0a0a0a&logo=github&logoColor=white)](https://github.com/orthogonalhq/nous-core)
+[![OpenNous](https://img.shields.io/github/stars/orthogonalhq/nous-core?style=for-the-badge&color=ffee8c&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4KICA8Y2lyY2xlIGN4PSI4IiBjeT0iMTEuNSIgcj0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiLz4KICA8Y2lyY2xlIGN4PSIxNi41IiBjeT0iNSIgcj0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjQiLz4KPC9zdmc+Cg==&logoColor=white)](https://github.com/orthogonalhq/nous-core)
 
 [![Discord](https://img.shields.io/badge/-Discord-white?style=for-the-badge&color=5865F2&labelColor=0a0a0a&logo=discord&logoColor=white)](https://discord.gg/39uDKGDwqd)
 
