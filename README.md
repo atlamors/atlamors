@@ -1,4 +1,4 @@
-## Hi, my name is Andrew 👋
+## Hello, I'm Andrew 👋
 
 [![O° OpenNous](https://img.shields.io/badge/OpenNous-white?style=for-the-badge&color=0057B7&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4KICA8Y2lyY2xlIGN4PSI4IiBjeT0iMTEuNSIgcj0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiLz4KICA8Y2lyY2xlIGN4PSIxNi41IiBjeT0iNSIgcj0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjQiLz4KPC9zdmc+Cg==)](https://github.com/orthogonalhq/nous-core)
 [![O° Agent Package Manager](https://img.shields.io/badge/Agent_Package_Manager-white?style=for-the-badge&color=1B1B1B&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4KICA8Y2lyY2xlIGN4PSI4IiBjeT0iMTEuNSIgcj0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiLz4KICA8Y2lyY2xlIGN4PSIxNi41IiBjeT0iNSIgcj0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjQiLz4KPC9zdmc+Cg==)](https://github.com/orthogonalhq/apm)
