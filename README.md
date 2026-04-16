@@ -10,11 +10,7 @@ The fall-short failure mode of this project is a very competent personal assista
 
 To help make the dream of democratized and soveriegn personal agents a reality, I am building all of this open source, with a supporting package management platform and optional hosting and token packages, if you want to help support the business.
 
-I'm building this with a multi-tier agent swarm. A PM agent coordinates everything from the main thread, reaching for six project management workflows when needed: state audit, codebase audit, ideation, gap analysis, ticket creation, and sprint composition. Alongside the PM agent, a workflow designer and architecture discovery agent run persistently.
-
-Once sprints are composed, execution fans out across as many parallel lanes as decomposition supports (typically 2–6), with each lane acting as its own team on a sprint. Each lane runs its own research-and-engineering pipeline with 14 specialized agents: discovery workers, design production agents, implementation agents, fresh review agents per gate, and cleanup/close workers.
-
-Concurrent agent count sits around 39 with 6 lanes active, climbing to 57 when cleanup and close workers fire across lanes. Achieved a 6× reduction in token burn through tighter progressive disclosure via routing tables, heavy context compression, and handoff-artifact-based context management.
+I'm building this with a multi-tier agent swarm. A PM agent coordinates the main thread with six project workflows at hand (state audits, codebase audits, ideation, gap analysis, ticket creation, sprint composition), alongside persistent workflow designer and architecture discovery agents. Execution fans out across 2-6 parallel lanes, each a 14-agent research-and-engineering pipeline with fresh reviewers spun up per gate. Concurrent agent count peaks around 39 with 6 lanes active, climbing to 57 when cleanup and close workers fire. Currently achieving a 6× reduction in token burn through progressive disclosure, routing tables, and handoff-artifact-based context management.
 
 ---
 ### Get Involved
