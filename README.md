@@ -8,7 +8,7 @@ I'm exploring the concept of self-awareness in locally stationed Claw-style agen
 
 The fall-short failure mode of this project is a very competent personal assistant agent that is built for security and auditability. The goal is to minimize misinterpretation (aka rogue actions) through hard permission gating, and antagonistic security observers.
 
-To help make the dream of democratized and soveriegn personal agents a reality, I am building all of this open source, with a supporting package management platform and optional hosting and token packages, if you want to help support the business.
+To help make the dream of democratized and sovereign personal agents a reality, I am building all of this open source, with a supporting package management platform and optional hosting and token packages, if you want to help support the business.
 
 I'm building this with a multi-tier agent swarm. Concurrent agent count peaks around 39 with 6 lanes active, climbing to 57 when cleanup and close workers fire. Currently achieving a 6× reduction in token burn through progressive disclosure, routing tables, and handoff-artifact-based context management.
 
