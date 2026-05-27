@@ -6,7 +6,7 @@
 
 I'm exploring the concept of self-awareness in locally stationed Claw-style agents using a multi-layer agent orchestration kernel. My hope is that by using novel local short-term and long-term memory architectures, we can improve current context-engineering harnesses to gain consistent self-reflection, self-correction, and self-improvement over indefinite periods of time.
 
-The fall-short failure mode of this project is a very competent personal assistant agent that is built for security and auditability. The goal is to minimize misinterpretation (aka rogue actions) through hard permission gating, and transparent process records via immutable durable logs.
+The fall-short failure mode of this project is a very competent personal assistant agent that is built for security and auditability. The goal is to minimize misinterpretation (aka rogue actions) through hard permission gating, and antagonistic security observers.
 
 To help make the dream of democratized and soveriegn personal agents a reality, I am building all of this open source, with a supporting package management platform and optional hosting and token packages, if you want to help support the business.
 
